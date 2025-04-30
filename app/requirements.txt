@@ -1,0 +1,9 @@
+fastapi==0.110.0
+uvicorn==0.27.1
+torch
+torchvision
+pillow
+tqdm
+pydantic==2.6.1
+python-multipart==0.0.5
+psutil
